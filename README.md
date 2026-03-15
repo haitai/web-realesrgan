@@ -10,7 +10,7 @@ Sure, PNG with alpha channel is supported.
 
 ### Online Demo
 
-[https://cappuccino.moe](https://cappuccino.moe)
+[https://upscale.chino.icu/](https://upscale.chino.icu/)
 
 ![demo](./src/assets/demo.jpg)
 
